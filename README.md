@@ -85,3 +85,14 @@ console.log(result1); // Output: [0, 1, 1, 2, 3, 5, 8, 13]
 const result2 = mergeSort([105, 79, 100, 110]);
 console.log(result2); // Output: [79, 100, 105, 110]
 ```
+
+## Author
+
+- Twitter - [Nurudeen Abdul-Majeed](https://twitter.com/ABDULMAJEEDNUR3)
+- Linkedin - [Nurudeen Abdul-Majeed](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182/)
+
+## Acknowledgments
+
+- Thanks to [The Odin Project](https://www.theodinproject.com/)
+
+- All praised to Allah.
